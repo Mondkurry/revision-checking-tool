@@ -4,7 +4,7 @@ This Python script is designed for document checking, enabling users to overlay 
 ## How to Use
 
 1. Make sure you have openCV installed.
-2. Place the two images you want to overlay in the specified variables "image1" and "image2" within the script (yes its manual lmao because this was mostly used by me).
+2. Place the two images you want to overlay in the specified variables "image1" and "image2" within the script (yes it's manual because this script was mostly used by me).
 3. View the result, image should be saved as 'overlay.png'
 4. profit?
 
@@ -16,5 +16,9 @@ This Python script is designed for document checking, enabling users to overlay 
 | convert_to_blue_grayscale(input_image)  | Converts the input image to grayscale and redraws the lines in blue.  |  
 | invert_colors(image)  |  Inverts the colors of the input image. |  
 
+
+## This is what the overlay looks like
+
+![image](https://github.com/Mondkurry/revision-checking-tool/assets/30964417/91537ba8-4cad-49be-8897-0bc2716c41bf)
 
 
